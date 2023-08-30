@@ -9,7 +9,7 @@ function App() {
       <header >
       <div class="container">
 <div class="logo">
-<img src="auditlogo.jpg" alt="auditmanlogo"/>
+<img src="auditlogo.jpeg" alt="auditmanlogo"/>
   </div>
 
 </div>
